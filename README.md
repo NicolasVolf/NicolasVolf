@@ -11,7 +11,7 @@
 
 ---
 
-Trabalho principalmente com backend em Java e Spring Boot. Hoje cuido sozinho do sistema de gestão de alunos usado pelos CCAs da UNAS, em Heliópolis, e boa parte do que aprendi veio de mantê-lo em produção: dados de crianças, LGPD, mudanças no banco sem perder nada e bastante teste.
+Trabalho principalmente com backend em Java e Spring Boot, do desenho da API ao deploy. Gosto de construir sistemas que vão para produção e de cuidar do que vem depois: segurança, dados e testes.
 
 ### Projetos
 

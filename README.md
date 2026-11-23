@@ -17,11 +17,11 @@ Trabalho principalmente com backend em Java e Spring Boot, do desenho da API ao 
 
 | Projeto | O que é |
 | :--- | :--- |
-| **Plataforma CCA (UNAS)** | Gestão de alunos em produção nos 11 CCAs da rede UNAS, em Heliópolis. Java 21 e Spring Boot, um ambiente por CCA, auditoria e retenção pela LGPD, mais de 700 testes *(privado: dados de menores)* |
-| **ClinVision** | Correção por foto do treino de colagem de braquetes, em trio. Fiz a API em FastAPI e o web em Next.js com Supabase: turmas, atividades e revisão do professor *(privado)* |
-| **[pna26/platform](https://github.com/pna26/platform)** | Microsserviços na AWS EKS. Fiz os serviços de Auth e Account, o RBAC no JWT e a mensageria em Kafka com transactional outbox ([minha documentação](https://nicolasvolf.github.io/platform-docs/)) |
-| **[lingpar](https://github.com/NicolasVolf/lingpar)** | Compilador de uma linguagem inspirada em Rust, do lexer até assembly x86 |
-| **Predição de imóveis** | Modelo de preço de venda com o QuintoAndar: ensemble ElasticNet + XGBoost, MAPE de 7,2% em dados nunca vistos *(privado)* |
+| **Plataforma CCA (UNAS)** | Sistema de gestão de alunos em produção nos 11 CCAs da rede UNAS, em Heliópolis: inscrições, fila de espera, matrículas, famílias e indicadores, com cada CCA isolado e dados tratados conforme a LGPD *(privado: dados de menores)* |
+| **ClinVision** | IA que corrige por foto o treino de colagem de braquetes em odontologia: mede cada dente com visão computacional, dá a nota pela rubrica e reúne os erros da turma num painel para o professor *(privado)* |
+| **[pna26/platform](https://github.com/pna26/platform)** | Plataforma de microsserviços na AWS EKS, com API Gateway, autenticação JWT, mensageria em Kafka e CI/CD no GitHub Actions ([minha documentação](https://nicolasvolf.github.io/platform-docs/)) |
+| **[lingpar](https://github.com/NicolasVolf/lingpar)** | Compilador de uma linguagem inspirada em Rust, do lexer até a geração de assembly x86 |
+| **Predição de imóveis** | Modelo que estima o preço de venda de imóveis, em parceria com o QuintoAndar, com erro médio de 7,2% em dados nunca vistos *(privado)* |
 
 ### Stack
 

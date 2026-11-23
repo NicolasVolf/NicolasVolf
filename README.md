@@ -11,7 +11,7 @@
 
 ---
 
-Gosto de backend que aguenta o mundo real: sistema em produção com dados de menores e LGPD, um ambiente isolado por cliente, migração de banco testada no backup de produção, fila sem posição repetida sob concorrência e mensageria que não perde evento. Teste automatizado vem antes do "funciona na minha máquina".
+Trabalho principalmente com backend em Java e Spring Boot. Hoje cuido sozinho do sistema de gestão de alunos usado pelos CCAs da UNAS, em Heliópolis, e boa parte do que aprendi veio de mantê-lo em produção: dados de crianças, LGPD, mudanças no banco sem perder nada e bastante teste.
 
 ### Projetos
 

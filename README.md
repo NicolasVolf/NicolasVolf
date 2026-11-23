@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-volf-02a014323)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.vfs15@gmail.com)
-[![Guestia](https://img.shields.io/badge/Guestia-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://929305-landingpage.pages.dev/)
 
 </div>
 
@@ -19,7 +18,6 @@ Gosto de backend que aguenta o mundo real: sistema em produção com dados de me
 | Projeto | O que é |
 | :--- | :--- |
 | **Plataforma CCA (UNAS)** | Gestão de alunos em produção nos 11 CCAs da rede UNAS, em Heliópolis. Java 21 e Spring Boot, um ambiente por CCA, auditoria e retenção pela LGPD, mais de 700 testes *(privado: dados de menores)* |
-| **[Guestia](https://929305-landingpage.pages.dev/)** | Startup que cofundei: o hóspede de hotel pequeno fala com a recepção, pede serviços e reserva horários. Spring Boot com SSE, React e Flutter *(privado)* |
 | **ClinVision** | Correção por foto do treino de colagem de braquetes, em trio. Fiz a API em FastAPI e o web em Next.js com Supabase: turmas, atividades e revisão do professor *(privado)* |
 | **[pna26/platform](https://github.com/pna26/platform)** | Microsserviços na AWS EKS. Fiz os serviços de Auth e Account, o RBAC no JWT e a mensageria em Kafka com transactional outbox ([minha documentação](https://nicolasvolf.github.io/platform-docs/)) |
 | **[lingpar](https://github.com/NicolasVolf/lingpar)** | Compilador de uma linguagem inspirada em Rust, do lexer até assembly x86 |

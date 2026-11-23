@@ -2,7 +2,7 @@
 
 # Nicolas Volf
 
-**Backend Java & Spring Boot** · Ciência da Computação no Insper · São Paulo
+**Fullstack & IA** · Ciência da Computação no Insper · São Paulo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-volf-02a014323)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.vfs15@gmail.com)

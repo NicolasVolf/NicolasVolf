@@ -1,41 +1,37 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
+    <img src="assets/name-light.svg" width="560" alt="Nicolas Volf">
+  </picture>
+</p>
 
-# Nicolas Volf
+<p align="center">
+  Desenvolvedor full stack
+</p>
 
-**Fullstack & IA** · Ciência da Computação no Insper · São Paulo
+<p align="center">
+  <b>Backend</b> &nbsp;·&nbsp; <b>Web</b> &nbsp;·&nbsp; <b>IA</b><br>
+  <sub>Ciência da Computação no Insper &nbsp;|&nbsp; São Paulo</sub>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-volf-02a014323)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.vfs15@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolas-volf-02a014323"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" height="30" alt="LinkedIn"></picture></a>
+  &emsp;
+  <a href="mailto:nicolas.vfs15@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" height="30" alt="Email"></picture></a>
+  &emsp;
+  <a href="assets/Nicolas-Volf-Curriculo.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-curriculo-dark.svg"><img src="assets/link-curriculo-light.svg" height="30" alt="Currículo"></picture></a>
+</p>
 
-</div>
+<br>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+    <img src="assets/stack-light.svg" width="720" alt="Java, Spring Boot, Python, FastAPI, PostgreSQL, MySQL, Redis, Kafka, Docker, GitHub Actions, React, Next.js, Flutter">
+  </picture>
+</p>
 
-Trabalho principalmente com backend em Java e Spring Boot, do desenho da API ao deploy. Gosto de construir sistemas que vão para produção e de cuidar do que vem depois: segurança, dados e testes.
-
-### Projetos
-
-| Projeto | O que é |
-| :--- | :--- |
-| **Plataforma CCA (UNAS)** | Sistema de gestão de alunos em produção nos 11 CCAs da rede UNAS, em Heliópolis: inscrições, fila de espera, matrículas, famílias e indicadores, com cada CCA isolado e dados tratados conforme a LGPD *(privado: dados de menores)* |
-| **ClinVision** | IA que corrige por foto o treino de colagem de braquetes em odontologia: mede cada dente com visão computacional, dá a nota pela rubrica e reúne os erros da turma num painel para o professor *(privado)* |
-| **[pna26/platform](https://github.com/pna26/platform)** | Plataforma de microsserviços na AWS EKS, com API Gateway, autenticação JWT, mensageria em Kafka e CI/CD no GitHub Actions ([minha documentação](https://nicolasvolf.github.io/platform-docs/)) |
-| **[lingpar](https://github.com/NicolasVolf/lingpar)** | Compilador de uma linguagem inspirada em Rust, do lexer até a geração de assembly x86 |
-| **Predição de imóveis** | Modelo que estima o preço de venda de imóveis, em parceria com o QuintoAndar, com erro médio de 7,2% em dados nunca vistos *(privado)* |
-
-### Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg">
+  <img src="assets/wave-light.svg" width="100%" alt="">
+</picture>

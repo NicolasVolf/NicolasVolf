@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="900" height="90" role="img" aria-label="">
+<style>path{fill:none;stroke:#f04a4f;stroke-width:1.2}
+.a{opacity:.55;animation:s1 10s ease-in-out infinite alternate}.b{opacity:.3;animation:s2 13s ease-in-out infinite alternate}.c{opacity:.15;animation:s1 16s ease-in-out infinite alternate-reverse}
+@keyframes s1{to{transform:translateX(-70px)}}@keyframes s2{to{transform:translateX(60px)}}
+@media (prefers-reduced-motion:reduce){.a,.b,.c{animation:none}}</style>
+<path class="a" d="M-100 50 C 100 20, 300 80, 450 50 S 800 20, 1000 50"/>
+<path class="b" d="M-100 58 C 120 30, 320 88, 470 56 S 820 28, 1000 58"/>
+<path class="c" d="M-100 66 C 140 40, 340 96, 490 62 S 840 36, 1000 66"/>
+</svg>

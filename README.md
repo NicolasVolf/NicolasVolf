@@ -19,7 +19,7 @@
   &emsp;
   <a href="mailto:nicolas.vfs15@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" height="30" alt="Email"></picture></a>
   &emsp;
-  <a href="assets/Nicolas-Volf-Curriculo.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-curriculo-dark.svg"><img src="assets/link-curriculo-light.svg" height="30" alt="Currículo"></picture></a>
+  <a href="https://raw.githubusercontent.com/NicolasVolf/NicolasVolf/main/assets/Nicolas-Volf-Curriculo.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-curriculo-dark.svg"><img src="assets/link-curriculo-light.svg" height="30" alt="Currículo"></picture></a>
 </p>
 
 <br>

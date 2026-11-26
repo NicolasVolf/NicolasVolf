@@ -1,9 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="900" height="90" role="img" aria-label="">
-<style>path{fill:none;stroke:#f04a4f;stroke-width:1.2}
-.a{opacity:.55;animation:s1 10s ease-in-out infinite alternate}.b{opacity:.3;animation:s2 13s ease-in-out infinite alternate}.c{opacity:.15;animation:s1 16s ease-in-out infinite alternate-reverse}
-@keyframes s1{to{transform:translateX(-70px)}}@keyframes s2{to{transform:translateX(60px)}}
-@media (prefers-reduced-motion:reduce){.a,.b,.c{animation:none}}</style>
-<path class="a" d="M-100 50 C 100 20, 300 80, 450 50 S 800 20, 1000 50"/>
-<path class="b" d="M-100 58 C 120 30, 320 88, 470 56 S 820 28, 1000 58"/>
-<path class="c" d="M-100 66 C 140 40, 340 96, 490 62 S 840 36, 1000 66"/>
+<style>path{fill:none;stroke:#f04a4f;stroke-linecap:round}
+.w0{opacity:0.65;stroke-width:1.4;animation:f0 11s linear infinite}@keyframes f0{to{transform:translateX(-450px)}}.w1{opacity:0.38;stroke-width:1.2;animation:f1 16s linear infinite}@keyframes f1{to{transform:translateX(600px)}}.w2{opacity:0.2;stroke-width:1.1;animation:f2 23s linear infinite}@keyframes f2{to{transform:translateX(-900px)}}
+@media (prefers-reduced-motion:reduce){path{animation:none!important}}</style>
+<path class="w0" d="M-450 46 Q-337.5 32 -225.0 46 T0.0 46 T225.0 46 T450.0 46 T675.0 46 T900.0 46 T1125.0 46 T1350.0 46"/><path class="w1" d="M-600 54 Q-450.0 44 -300.0 54 T0.0 54 T300.0 54 T600.0 54 T900.0 54 T1200.0 54 T1500.0 54"/><path class="w2" d="M-900 62 Q-675.0 46 -450.0 62 T0.0 62 T450.0 62 T900.0 62 T1350.0 62 T1800.0 62"/>
 </svg>
